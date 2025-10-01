@@ -24,11 +24,11 @@ gcc program.c -o program
 ./program
 
 
-##Contributing
+## Contributing
 
 Feel free to fork the repository and submit pull requests. Any contributions, suggestions, or improvements are welcome.
 
-Steps to Contribute:
+* Steps to Contribute:
 
 Fork the repository.
 
