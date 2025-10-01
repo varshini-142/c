@@ -28,19 +28,19 @@ gcc program.c -o program
 
 Feel free to fork the repository and submit pull requests. Any contributions, suggestions, or improvements are welcome.
 
-* Steps to Contribute:
+ Steps to Contribute:
 
-Fork the repository.
+* Fork the repository.
 
-Create a new branch (git checkout -b feature-branch).
+* Create a new branch (git checkout -b feature-branch).
 
-Commit your changes (git commit -m 'Add new feature').
+* Commit your changes (git commit -m 'Add new feature').
 
-Push to the branch (git push origin feature-branch).
+* Push to the branch (git push origin feature-branch).
 
-Submit a pull request.
+* Submit a pull request.
 
-##License
+## License
 
 This repository is licensed under the MIT License. See the LICENSE
  file for more information.
